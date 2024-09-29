@@ -1,2 +1,2 @@
-- name: Setup Node
-  uses: actions/setup-node@4.0.4
+Setup Node
+actions/setup-node@4.0.4
